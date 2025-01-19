@@ -1,0 +1,32 @@
+.home .logo {
+  margin: 15px auto 10px;
+}
+
+.feature span.featureText2 {
+  font-size: 17px;
+}
+
+.row.productType {
+  min-height: 450px;
+}
+.info h2 a {
+  font-size: 25px;
+  color: #0f1010;
+  text-decoration: none;
+  text-shadow:none
+}
+.info p {
+  text-align: justify;
+  font-size: 16px;
+}
+.textWrap.privacy ul li{
+  font-size: 16px!important;
+}
+.propDes .row{
+  margin-bottom: 35px;
+}
+.propDes .row p + a {
+  font-size: 13px;
+  font-weight: bold;
+  text-shadow: 0px 0px 1px #172c3d;
+}
